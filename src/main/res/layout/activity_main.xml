@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/background_img"
+    tools:context="com.example.joelwasserman.androidbletutorial.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/connectImage"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:src="@drawable/onfire"
+                android:visibility="invisible" />
+
+            <ImageView
+                android:id="@+id/shouting"
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:layout_marginTop="110dp"
+                android:visibility="invisible"
+                app:srcCompat="@drawable/shouting" />
+
+            <ImageView
+                android:id="@+id/imhere"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                app:srcCompat="@drawable/imhere"
+                android:visibility="visible"/>
+
+            <ImageView
+                android:id="@+id/exit_image"
+                android:layout_width="match_parent"
+                android:layout_height="650dp"
+                android:layout_marginTop="50dp"
+                android:visibility="invisible"
+                app:srcCompat="@drawable/exit" />
+
+            <ViewFlipper
+                android:id="@+id/image_slide"
+                android:layout_width="match_parent"
+                android:layout_height="430dp"
+                android:layout_marginTop="100dp"
+                android:visibility="visible"
+                app:srcCompat="@drawable/exit">
+
+            </ViewFlipper>
+
+            <ImageView
+                android:id="@+id/resqueImage"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="530dp"
+                app:srcCompat="@drawable/button119" />
+
+            <ImageView
+                android:id="@+id/extinguisher"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="580dp"
+                app:srcCompat="@drawable/extinguisher" />
+
+        </FrameLayout>
+
+
+    </LinearLayout>
+
+
+</android.support.v7.widget.LinearLayoutCompat>
