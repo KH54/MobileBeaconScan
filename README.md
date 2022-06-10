@@ -8,6 +8,8 @@ BLE 비콘을 이용한 화재 대피 솔루션 Mobile App
 
 - 🏅 한남대학교 LINC+ 사업단 "2021 LINC+ 캡스톤 디자인 경진대회" 대전광역시장상 대상 [2022.01.20]   
 ![산학협력 페스티벌 대상](https://user-images.githubusercontent.com/66667857/154874624-f530c1cb-80a4-4f4d-a1f2-204b87c5c50e.jpg)
+![산학협력 페스티벌 대전시장상](https://user-images.githubusercontent.com/66667857/173015383-e9e9f744-99b6-4bc3-b2e7-158b1f31dc05.jpg)
+
 
 
 - 🥈 한남대학교 제 10회 한남 공학페스티벌 "창의설계/아이디어 경진대회" 은상 [2020.12.10]   
