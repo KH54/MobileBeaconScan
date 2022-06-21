@@ -36,6 +36,10 @@
 ![image](https://user-images.githubusercontent.com/66667857/174772184-f43cc112-8ac5-451b-b589-8a79fd035eec.png)
 
 
+#### Video 📷
+https://user-images.githubusercontent.com/66667857/174776651-3c013024-5bc9-4df7-b330-46a146ce177e.mp4
+
+
 <br><br>
 #### Utilization 🌟
 ##### 휴대폰 수리 시장에 사용하면 좋을 것 같습니다. 
