@@ -1,7 +1,23 @@
-# BLE Beacon을 이용한 화재 대피 솔루션
+# BLE Beacon을 이용한 화재 대피 솔루션 🧑‍🚒
+<br><br>
+### Beacon을 이용하여 화재 발생 시 건물 내의 인원들에게 화재 발생 장소와 탈출 경로를 알려주며
+### 소방관에게는 탈출하지 못한 사람의 위치를 알려주는 프로젝트
+<br><br>
 
+### Language and Tool 🔨
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
-<br/><br/>
+<br>
+
+### Development period / personnel
+    3 Month / 4 person
+<br>
+
+### My role
+    기획, App 및 Web 개발, 발표
 
 ## 🏆 Awards!
 
@@ -16,13 +32,23 @@
   
 <br/><br/><br/><br/>
 
-## The reason maked this project
+## Presentation and Video 📹
+<a href="https://github.com/KH54/Portfolio/files/8955291/PPT.pdf" target="_blank"> 발표 자료 </a> ( 새 창으로 띄워주세요)
+
+
+https://user-images.githubusercontent.com/66667857/174974082-d11fd11d-aec9-4912-a7d3-e2e136547a8e.mp4
+
+https://user-images.githubusercontent.com/66667857/174974099-28a06d4f-9fc8-4eda-b75b-2141353d644a.mp4
+
+
+
+## The reason maked this project 👷‍♂️
 
 ![사망자](https://user-images.githubusercontent.com/66667857/154873874-8581e3c9-bb5a-462d-b10c-d49d825272ce.png)
   
 <br/><br/><br/><br/>
 
-## Solution plan
+## Solution plan 🧾
 
 ![image](https://user-images.githubusercontent.com/66667857/154873935-bf9c0a40-97ec-4efc-8150-6b2c7902b769.png)
   
