@@ -1,6 +1,5 @@
-# MobileBeaconScan
+# BLE Beacon을 이용한 화재 대피 솔루션
 
-BLE 비콘을 이용한 화재 대피 솔루션 Mobile App
 
 <br/><br/>
 
