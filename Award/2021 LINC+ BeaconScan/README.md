@@ -1,7 +1,7 @@
 # BLE Beacon을 이용한 화재 대피 솔루션 🧑‍🚒
 <br><br>
 ### Beacon을 이용하여 화재 발생 시 건물 내의 인원들에게 화재 발생 장소와 탈출 경로를 알려주며
-### 소방관에게는 탈출하지 못한 사람의 위치를 알려주는 프로젝트
+### 소방관에게는 탈출하지 못한 사람의 위치를 알려주는 Application 제작
 <br><br>
 
 ### Language and Tool 🔨
@@ -17,19 +17,20 @@
 <br>
 
 ### My role
-    기획, App 및 Web 개발, 발표
+    - 아이디어 제안
+    - Application 총괄 ( arduino - Bluetooth 통신, XML )
+    - Web 제작
 
 ## 🏆 Awards!
 
 - 🏅 한남대학교 LINC+ 사업단 "2021 LINC+ 캡스톤 디자인 경진대회" 대전광역시장상 대상 [2022.01.20]   
-![산학협력 페스티벌 대상](https://user-images.githubusercontent.com/66667857/154874624-f530c1cb-80a4-4f4d-a1f2-204b87c5c50e.jpg)
-![산학협력 페스티벌 대전시장상](https://user-images.githubusercontent.com/66667857/173015383-e9e9f744-99b6-4bc3-b2e7-158b1f31dc05.jpg)
 
+<img src="https://user-images.githubusercontent.com/66667857/154874624-f530c1cb-80a4-4f4d-a1f2-204b87c5c50e.jpg" width="800" height="400"/>
+<div>
+<img src="https://user-images.githubusercontent.com/66667857/173015383-e9e9f744-99b6-4bc3-b2e7-158b1f31dc05.jpg" width="500" height="800"/>
 
-
-- 🥈 한남대학교 제 10회 한남 공학페스티벌 "창의설계/아이디어 경진대회" 은상 [2020.12.10]   
-![2020 공페 은상](https://user-images.githubusercontent.com/66667857/154874563-45d22313-c5c0-4887-b865-4a46c48b1fce.png)
-  
+<img src="https://user-images.githubusercontent.com/66667857/154874563-45d22313-c5c0-4887-b865-4a46c48b1fce.png" width="400" height="600"/>
+  </div>
 <br/><br/><br/><br/>
 
 ## Presentation and Video 📹
