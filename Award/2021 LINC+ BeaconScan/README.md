@@ -36,13 +36,22 @@
 ## Presentation and Video 📹
 <a href="https://github.com/KH54/Portfolio/files/8955291/PPT.pdf" target="_blank"> 발표 자료 </a> ( 새 창으로 띄워주세요)
 
-
+<br><br>
+### 기능 설명 영상
 https://user-images.githubusercontent.com/66667857/174974082-d11fd11d-aec9-4912-a7d3-e2e136547a8e.mp4
 
 https://user-images.githubusercontent.com/66667857/174974099-28a06d4f-9fc8-4eda-b75b-2141353d644a.mp4
 
 
+<br><br>
+### 이해를 돕기 위한 시연 영상
+https://user-images.githubusercontent.com/66667857/187581353-5f04ec60-92ec-4c67-b0a1-8b24abe1ed17.mp4
 
+https://user-images.githubusercontent.com/66667857/187581380-24442be6-933b-4a8d-b142-6c12ceabf459.mp4
+
+
+
+<br><br>
 ## The reason maked this project 👷‍♂️
 
 ![사망자](https://user-images.githubusercontent.com/66667857/154873874-8581e3c9-bb5a-462d-b10c-d49d825272ce.png)
